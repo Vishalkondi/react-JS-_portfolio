@@ -4,6 +4,7 @@ A sleek, modern, and responsive personal portfolio section built with **React.js
 cts, dark mode toggle, tilt animations, and a stylish contact form powered by **EmailJS**.
 
 
+![Screenshot (91)](https://github.com/user-attachments/assets/8a18e4b5-d990-4a32-a4c8-19145f3968c1)
 
 ## ✨ Features
 
