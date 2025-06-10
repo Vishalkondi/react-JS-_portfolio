@@ -58,3 +58,26 @@ VishalPortfolio/
 ├── postcss.config.js
 ├── tailwind.config.js
 └── vite.config.js
+# 1. Clone the repo
+git clone https://github.com/Vishalkondi/VishalPortfolio.git
+cd VishalPortfolio
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the development server
+npm run dev📃 License
+This project is licensed under the MIT License.
+Feel free to use and modify it for personal and commercial projects.
+
+🙋‍♂️ Author
+Vishal Kondi
+Frontend Developer | MERN Stack Enthusiast
+
+📧 Email: vishalkondi21@gmail.com
+
+💼 LinkedIn
+
+💻 GitHub
+
+
