@@ -3,7 +3,6 @@
 A sleek, modern, and responsive personal portfolio section built with **React.js**, **Tailwind CSS**, and **Vite**. Showcasing your developer profile with animated typing effe!
 cts, dark mode toggle, tilt animations, and a stylish contact form powered by **EmailJS**.
 
----![Uploading Screenshot (86).png…]()
 
 
 ## ✨ Features
