@@ -1,8 +1,34 @@
-# React + Vite
+# 🚀 About Me Section with Dark Mode | React + TailwindCSS + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, animated **"About Me"** section built with **React**, styled using **Tailwind CSS**, and bundled via **Vite**. This component includes dark mode toggle, typing animation, 3D tilt effects, and interactive profile details.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔥 Features
+
+- 🌓 **Dark Mode Toggle**
+- ✍️ **Typing Animation** using `react-typing-effect`
+- 🖱️ **3D Parallax Tilt** with `react-parallax-tilt`
+- 🎨 **Tailwind CSS Styling**
+- 📱 Fully Responsive
+- 📄 CV Download & 📅 Calendly Booking
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **React.js**
+- 🌬 **Tailwind CSS**
+- ⚡ **Vite**
+- 🔡 `react-typing-effect`
+- 🎮 `react-parallax-tilt`
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/about-darkmode-react.git
+cd about-darkmode-react
