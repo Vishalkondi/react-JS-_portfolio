@@ -1,34 +1,60 @@
-# 🚀 About Me Section with Dark Mode | React + TailwindCSS + Vite
+# 🌟 VishalPortfolio
 
-A modern, animated **"About Me"** section built with **React**, styled using **Tailwind CSS**, and bundled via **Vite**. This component includes dark mode toggle, typing animation, 3D tilt effects, and interactive profile details.
-
----
-
-## 🔥 Features
-
-- 🌓 **Dark Mode Toggle**
-- ✍️ **Typing Animation** using `react-typing-effect`
-- 🖱️ **3D Parallax Tilt** with `react-parallax-tilt`
-- 🎨 **Tailwind CSS Styling**
-- 📱 Fully Responsive
-- 📄 CV Download & 📅 Calendly Booking
+A sleek, modern, and responsive personal portfolio section built with **React.js**, **Tailwind CSS**, and **Vite**. Showcasing your developer profile with animated typing effects, dark mode toggle, tilt animations, and a stylish contact form powered by **EmailJS**.
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Features
 
-- ⚛️ **React.js**
-- 🌬 **Tailwind CSS**
-- ⚡ **Vite**
-- 🔡 `react-typing-effect`
-- 🎮 `react-parallax-tilt`
+- ⚡ Built with **Vite** for lightning-fast performance
+- 🎨 **Dark/Light Mode** toggle with smooth transitions
+- 🎯 Typing animation using `react-typing-effect`
+- 💌 Contact form with **EmailJS** integration and toast notifications
+- 🖼️ Profile image with **3D Tilt animation**
+- 🧾 Resume download and calendar link for scheduling
+- 🧠 Clean and modular component structure
+- 📱 Fully responsive and mobile-friendly design
 
 ---
 
-## 🚀 Getting Started
+## 🔧 Tech Stack
 
-### 1. Clone the Repository
+- **Frontend**: React.js, Tailwind CSS, Vite
+- **Animation**: react-typing-effect, react-parallax-tilt
+- **Form Handling**: EmailJS, React Hooks
+- **Notifications**: react-toastify
+
+---
+
+## 🚀 Live Demo
+
+> [🔗 View Live Demo](https://your-portfolio-url.com)  
+> *(Replace this link with your actual deployment URL)*
+
+---
+
+## 🖼️ Screenshots
+
+![Dark Mode](./screenshots/dark-mode.png)  
+![Light Mode](./screenshots/light-mode.png)  
+*(Add your screenshots inside a `screenshots/` folder)*
+
+---
+
+## 📂 Folder Structure
 
 ```bash
-git clone https://github.com/yourusername/about-darkmode-react.git
-cd about-darkmode-react
+VishalPortfolio/
+├── public/
+│   └── ...
+├── src/
+│   ├── assets/             # Images, icons, etc.
+│   ├── components/         # Reusable UI components (About, Contact, Experience)
+│   ├── constants/          # Static data (e.g., experiences.js)
+│   ├── App.jsx             # Main app component
+│   ├── index.css           # Tailwind styles
+│   └── main.jsx            # Entry point
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+└── vite.config.js
