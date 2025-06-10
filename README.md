@@ -1,6 +1,7 @@
 # 🌟 VishalPortfolio
 
-A sleek, modern, and responsive personal portfolio section built with **React.js**, **Tailwind CSS**, and **Vite**. Showcasing your developer profile with animated typing effe!
+A sleek, modern, and responsive personal portfolio section built with **React.js**, **Tailwind CSS**, and **Vite**. Showcasing your developer![Screenshot (90)](https://github.com/user-attachments/assets/2259291a-f610-414a-82a0-ce489d3f54c0)
+ profile with animated typing effe!
 cts, dark mode toggle, tilt animations, and a stylish contact form powered by **EmailJS**.
 
 
